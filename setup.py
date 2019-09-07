@@ -48,6 +48,7 @@ setup(
         'twilio>=6.0.0,<6.1',
         'thehive4py>=1.4.4',
         'python-magic>=0.4.15',
+        'python-magic-bin>=0.4.14;platform_system=="Darwin"',
         'cffi>=1.11.5'
     ]
 )
